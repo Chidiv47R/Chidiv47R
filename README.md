@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning sql(postgeaql), R, Excel, Python
 - 💞️ I’m looking to collaborate on Databases
 - 📫 How to reach me mail chijuston@gmail.com
+- # twitter @OddCza
+- # LinkedIn https://www.linkedin.com/in/chidiogo-ogwuniru-74653940/
 
 <!---
 Chidiv47R/Chidiv47R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
