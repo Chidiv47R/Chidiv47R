@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chidiv47R
 - 👀 I’m interested in data
-- 🌱 I’m currently learning sql, R, Excel, Access
+- 🌱 I’m currently learning sql(postgeaql), R, Excel, Python
 - 💞️ I’m looking to collaborate on Databases
 - 📫 How to reach me mail chijuston@gmail.com
 
