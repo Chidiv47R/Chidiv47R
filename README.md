@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Ogwuniru Chidiogo *Victor
+- 👋 Hi, I’m Ogwuniru Chidiogo Victor
 - 👀 I’m interested in data
 - 🌱 I’m currently learning sql(postgeaql), R, Excel, Python, Power Bi
 - 💞️ I’m looking to collaborate on Databases, and Data Analysis project
