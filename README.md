@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chidiv47R
+- 👋 Hi, I’m Ogwuniru Chidiogo Victor
 - 👀 I’m interested in data
 - 🌱 I’m currently learning sql(postgeaql), R, Excel, Python
 - 💞️ I’m looking to collaborate on Databases
